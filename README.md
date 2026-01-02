@@ -18,4 +18,4 @@ It is maintained as per college requirements and documents my **daily learning, 
 
 ## 🗂 Repository Structure
 
-The diary is organized ?**month-wise → week-wise** for clarity.
+The diary is organized **month-wise → week-wise** for clarity.
