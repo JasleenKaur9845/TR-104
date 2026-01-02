@@ -1,6 +1,4 @@
-# TR-104
-Semester training 
-
+# TR-104 
 # 📘 Semester Training Daily Diary
 
 This repository contains my **daily diary** for my **Industrial Training**.  
