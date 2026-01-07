@@ -1,5 +1,4 @@
-# Week 1 (1 january 2026 to 7 january 2026)
-
+# Week 1 
 ---
 ## Day 1 – Orientation & Company Environment
 - Introduction to organization and office environment
