@@ -13,6 +13,7 @@ It is maintained as per college requirements and documents my **daily learning, 
 - **Semester:** Final Semester
 - **Training Type:** Semester Training  
 - **Technology Stack:** PHP, MySQL, HTML, CSS
+- **Duration-** 6 months (Jan 2026-June 2026)
 
 
 
