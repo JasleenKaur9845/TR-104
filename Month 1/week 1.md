@@ -1,7 +1,5 @@
-# Week 1 – Semester Training Diary
+# Week 1 (1-1-2026 to 7-1-2026)
 
-## Duration
-**Week:** 1  
 ---
 ## Day 1 – Orientation & Company Environment
 - Introduction to organization and office environment
